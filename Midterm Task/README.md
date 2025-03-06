@@ -12,6 +12,9 @@ Remove NULL values
 
 Remove Duplicates
 
+Raw Data
+![screenshot](image/Raw.png)
+
 ## STEP 2 Normalization
 
 Performed 1NF
