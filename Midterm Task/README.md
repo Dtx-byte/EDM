@@ -13,6 +13,7 @@ Remove NULL values
 Remove Duplicates
 
 Raw Data
+
 ![screenshot](image/Raw.png)
 
 ## STEP 2 Normalization
@@ -26,4 +27,5 @@ Perform 3 NF
 Mapped the Normalized tables as a Physical Data Model
 
 Raw cleaned Data
+
 ![screenshot](image/Clean.png)
