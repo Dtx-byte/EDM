@@ -12,10 +12,6 @@ Remove NULL values
 
 Remove Duplicates
 
-Raw Data
-
-![screenshot](image/Raw.png)
-
 ## STEP 2 Normalization
 
 Performed 1NF
@@ -28,4 +24,13 @@ Mapped the Normalized tables as a Physical Data Model
 
 Raw cleaned Data
 
+# Screenshots of Output
+
+## Raw Data
+![screenshot](image/Raw.png)
+
+## Cleaned Data
 ![screenshot](image/Clean.png)
+
+## Entity Relationship Diagram
+![screenshot](Relationship.png)
