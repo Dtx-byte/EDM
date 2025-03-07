@@ -110,7 +110,7 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 ![Image](https://github.com/user-attachments/assets/38ea140c-bb3b-44c1-b2cb-a25601ea8467)
 
 ### Here's the screenshot of my output after I started data cleaning (see screenshot)
-![screenshot](image/EDM.png)
+![screenshot](image/EDM%20Power%20Query.png)
 
 ### Here's the screenshot of the Query Dependencies
-![screenshot](image/EDM%20Power%20Query.png)
+![screenshot](image/EDM.png)
