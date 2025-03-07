@@ -106,7 +106,7 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 
 ## Here are the screenshots showcasing the table transformation process
 ### Here's the screenshot of my output before I started data cleaning (see screenshot)
-![Image](https://github.com/user-attachments/assets/38ea140c-bb3b-44c1-b2cb-a25601ea8467)
+![screenshot](image/Uncleaned.png)
 
 ### Here's the code proof for my cleaning of data
 ```
