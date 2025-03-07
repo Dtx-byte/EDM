@@ -33,4 +33,4 @@ Raw cleaned Data
 ![screenshot](image/Clean.png)
 
 ## Entity Relationship Diagram
-![screenshot](Relationship.png)
+![screenshot](Relationships.png)
