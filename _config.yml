@@ -1,5 +1,7 @@
 title: [EDM PORTFOLIO]
 #logo: [Assets/img/Pascubillo.png]
 #description: [Bachelor of Science in Information System Student of City College of Angeles]
-#show_downloads: true
-remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: true
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/modernist@v0.2.0
+plugins: jekyll-theme-slate
